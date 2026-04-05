@@ -1,0 +1,19 @@
+# Python specific
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+bin/
+include/
+lib/
+lib64/
+venv/
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+# Machine Learning specific
+*.h5
+*.hdf5
+*.keras
+model/
